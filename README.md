@@ -8,7 +8,9 @@ This is a free-of-charge application. It is NOT open-source.
 By using this application you agree to the following terms. It must only be used for generating HTML topics within the content tool of the Brightspace LMS. Unauthorized modification of this applciation is strictly prohibited. Unauthorized sale of this applciation is strictly prohibited. By using this application you do so at your own risk. The author is not responsible for any loss or damage resulting from the use or misuse of this application.
 
 Written by [Ricky Haror](https://www.linkedin.com/in/rickyharor)
+
 Copyright (C) Ricky Haror
+
 Contact: [https://coursedevtools.rickyharor.com/Home/Contact](https://coursedevtools.rickyharor.com/Home/Contact)
 
 ## Table of Contents
